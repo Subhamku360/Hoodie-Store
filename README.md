@@ -91,7 +91,7 @@ hoodie-website/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/hoodie-website.git
+   git clone https://github.com/Subhamku360/hoodie-website.git
 
 ## 🧠 SCSS Concepts Used
 
@@ -116,3 +116,4 @@ hoodie-website/
 **Subham**  
 Front-End Developer (Learning Phase)  
 Focused on clean UI and modern web design.
+
